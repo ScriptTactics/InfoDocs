@@ -169,4 +169,10 @@ To see the running container
 
 # Machine 2
 
-Install SDR++ for your respective operating system.
+Install SDR++ for your respective operating system. Make sure you select nightly build.
+
+Extract the .zip and then launch the application.
+
+In Source select `SDR++ Server`.
+
+Then set the IP to your linux server ip.
