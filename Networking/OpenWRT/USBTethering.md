@@ -80,14 +80,14 @@ Instead, to create a whole new interface, make a new one called TetheringWAN, an
 
 See the following screenshots.
 
-![Image](Networking\OpenWRT\Screenshots\image_create_new_interface.png?raw=true)
+![image_create_new_interface](Screenshots/image_create_new_interface.png?raw=true)
 
 First page of the Create Interface wizard.
 
-![Image2](Networking\OpenWRT\Screenshots\image_create_new_interface_set_firewall_region.png?raw=true)
+![image_create_new_interface_set_firewall_region](Screenshots/image_create_new_interface_set_firewall_region.png?raw=true)
 Firewall tab of the Create Interface Wizard. Very important to set it as WAN.
 
-![Image3](Networking\OpenWRT\Screenshots\image_create_new_interface_end_result.png?raw=true)
+![image_create_new_interface_end_result](Screenshots/image_create_new_interface_end_result.png?raw=true)
 And the end result in the Interfaces page.
 
 After committing the changes the new TetheringWAN should be activated. Otherwise, restart it with the buttons you find in the Interface page of LuCI web interface. 
